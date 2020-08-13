@@ -1,0 +1,1 @@
+Align.vba: call delete('/home/jianzhang/.vim/plugin/AlignPlugin.vim')|call delete('/home/jianzhang/.vim/plugin/AlignMapsPlugin.vim')|call delete('/home/jianzhang/.vim/plugin/cecutil.vim')|call delete('/home/jianzhang/.vim/doc/Align.txt')|call delete('/home/jianzhang/.vim/autoload/Align.vim')|call delete('/home/jianzhang/.vim/autoload/AlignMaps.vim')
